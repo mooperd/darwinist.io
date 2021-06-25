@@ -1,0 +1,11 @@
+style: is-light
+items:
+  - title: Technology Adoption
+    subtitle: Reduce technology risk
+    icon: fa-copy
+  - title: Micro-transformations
+    subtitle: Tech adoption in bite sized chunks
+    icon: fa-copy
+  - title: Upskilling and enablement
+    subtitle: Become self sufficient
+    icon: fa-copy
